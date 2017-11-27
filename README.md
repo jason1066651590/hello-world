@@ -1,4 +1,2 @@
 # hello-world
-just another repository
-
-my name is Jason
+第一次使用git
